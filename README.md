@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning [DSA](https://mail.google.com/mail/u/0/#inbox)
 
-- 🌱 I’m currently learning **Blender, Node JS**
+- 🌱 I’m currently learning  **Blender, Node JS**
 
 - 👯 I’m looking to collaborate on [App development](https://mail.google.com/mail/u/0/#inbox)
 
